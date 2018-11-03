@@ -3,8 +3,8 @@ This repository is written as a blog for the conference paper "A Survey on Recen
 
 ## NER datasets
 
-CoNLL 2002, 2003 - Newswire NER dataset in Spanish, Dutch, English, German languages.
-[CoNLL 2002 dataset](https://www.clips.uantwerpen.be/conll2002/ner/) 
+CoNLL 2002, 2003 - Newswire NER dataset in Spanish, Dutch, English, German languages - 
+[CoNLL 2002 dataset](https://www.clips.uantwerpen.be/conll2002/ner/) ,
 [CoNLL 2003 dataset](https://www.clips.uantwerpen.be/conll2003/ner/)
 
 
