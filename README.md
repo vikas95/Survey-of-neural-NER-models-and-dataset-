@@ -11,6 +11,11 @@ NER dataset on 7 slavic languages (Croatian, Czech, Polish, Russian, Slovak, Slo
 
 Clinical NER dataset - 2010 I2B2 NER task - [shared task](https://www.i2b2.org/NLP/Relations/)
 
+Drug NER shared task - [shared task 1](https://www.cs.york.ac.uk/semeval-2013/task9/index.html), [shared task 2]
+
+Chemical and Drug NER - [collection of similar datasets](http://www.biocreative.org)
+
+Microbiology NER - [shared tasks](http://2016.bionlp-st.org/tasks/bb2) 
 
 ## NER evaluation metrics
 
