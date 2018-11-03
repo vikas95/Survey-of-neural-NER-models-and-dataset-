@@ -7,6 +7,10 @@ CoNLL 2002, 2003 - Newswire NER dataset in Spanish, Dutch, English, German langu
 [CoNLL 2002 dataset](https://www.clips.uantwerpen.be/conll2002/ner/) ,
 [CoNLL 2003 dataset](https://www.clips.uantwerpen.be/conll2003/ner/)
 
+NER dataset on 7 slavic languages (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian) - [shared task](http://bsnlp.cs.helsinki.fi/shared_task.html)
+
+Clinical NER dataset - 2010 I2B2 NER task - [shared task](https://www.i2b2.org/NLP/Relations/)
+
 
 ## NER evaluation metrics
 
