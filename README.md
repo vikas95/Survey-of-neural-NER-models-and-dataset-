@@ -1,7 +1,10 @@
 # Survey-of-neural-NER-models-and-datasets
 This repository is written as a blog for the conference paper "A Survey on Recent Advances in Named Entity Recognition from Deep Learning models" (http://www.aclweb.org/anthology/C18-1182)  published at COLING 2018 (Santa Fe, NM).
 
-""" Note """
+If you find these resources useful, please cite our above Neural NER survey paper - 
+
+
+
 ## NER datasets
 
 CoNLL 2002, 2003 - Newswire NER dataset in Spanish, Dutch, English, German languages - 
