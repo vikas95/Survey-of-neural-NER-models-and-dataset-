@@ -23,6 +23,8 @@ Microbiology NER - [shared tasks](http://2016.bionlp-st.org/tasks/bb2)
 
 ## Neural Netowrk based Named Entity Recognition (NER) models 
 
+![Screenshot](architectures.png)
+
 ### Word+Char level NN NER model
 
 CNN(characters) + Word embeddings
