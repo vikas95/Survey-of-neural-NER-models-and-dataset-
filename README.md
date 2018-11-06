@@ -21,6 +21,8 @@ Chemical and Drug NER - [collection of similar datasets](http://www.biocreative.
 
 Microbiology NER - [shared tasks](http://2016.bionlp-st.org/tasks/bb2) 
 
+Other github dataset resources - [shared tasks](https://github.com/davidsbatista/NER-datasets)
+
 ## Neural Netowrk based Named Entity Recognition (NER) models 
 
 ![Screenshot](architectures.png)
